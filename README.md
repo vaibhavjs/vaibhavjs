@@ -12,19 +12,19 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://hopeful-mestorf-04fa01.netlify.app/)**
 
-- 📫 How to reach me **nileshkotle123@gmail.com**
+- 📫 How to reach me **vaibhav.react@gmail.com**
 
-- ⚡ Fun fact **I play football and watch anime.**
+- ⚡ Some of my hobbies **Travelling, Sports, Music & Movies**
 </br>
 <h3>Get in touch tith me</h3>
-<a href = "https:/www.linkedin.com/in/nilesh-kotle-bb795712b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/nilesh_d_k"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/vaibhav121/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/vaiboz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </br>
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nkil123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/nilesh-kotle-bb795712b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/https://twitter.com/nilesh_d_k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)   -->
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vaibhavjs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/nilesh-kotle-bb795712b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/https://twitter.com/nilesh_d_k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nilesh-5tx0r7w4g-nkil123.vercel.app/)   -->
 </br>
 
 <h3 align="left">🚀Languages and Tools:</h3>
