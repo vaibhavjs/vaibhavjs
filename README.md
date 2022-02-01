@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://hopeful-mestorf-04fa01.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://vaibhav.info/)**
 
 - 📫 How to reach me **vaibhav.react@gmail.com**
 
