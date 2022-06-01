@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://cdn.imgbin.com/4/0/19/imgbin-smiley-emoji-high-five-whatsapp-mobile-phones-smiley-bT4RK5P8fmwh9pQV32Drn0Nn4.jpg" width="30px">, I'm Vaibhav</h1>
+<h1 align="center">Hi <img src="https://www.kindpng.com/picc/m/29-297247_clip-art-high-five-emoji-hd.png" width="30px">, I'm Vaibhav</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 
