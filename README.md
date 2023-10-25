@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi there! I'm a full-stack web developer with a strong foundation in both front-end and back-end technologies. On the front-end, I'm proficient with modern frameworks and libraries such as Next.js, React.js, and the elegant Tailwind CSS. When it comes to back-end development, my skills shine with tools like Node.js and Prisma. I'm well-versed in a variety of databases, including MySQL, MongoDB, and PostgreSQL. Beyond these technologies, I'm always eager to dive into new challenges and broaden my tech stack. Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss any project!
+- 👋 Hello! I'm a full-stack web developer with a strong foundation in both front-end and back-end technologies. On the front-end, I'm proficient with modern frameworks and libraries such as Next.js, React.js, and the elegant Tailwind CSS. When it comes to back-end development, my skills shine with tools like Node.js and Prisma. I'm well-versed in a variety of databases, including MySQL, MongoDB, and PostgreSQL. Beyond these technologies, I'm always eager to dive into new challenges and broaden my tech stack. Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss any project!
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vaibhav.info/)**
 
-- 📫 How to reach me **vaibhav.react@gmail.com**
+- 📫 How to reach me **mr.vaibhavjs@gmail.com**
 
 - ⚡ Some of my hobbies **Travelling, Sports, Music & Movies**
 </br>
